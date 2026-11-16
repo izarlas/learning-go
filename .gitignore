@@ -1,0 +1,6 @@
+# Binaries
+/main
+/bin/
+*.exe
+*.test
+*.out
